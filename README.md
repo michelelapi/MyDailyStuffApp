@@ -15,19 +15,19 @@ A modern Android task management app built with Jetpack Compose that helps you t
 ## Screenshots
 
 ### Home Screen
-![Home Screen](media/Home.jpg)
+<img src="media/Home.jpg" alt="Home Screen" width="400"/>
 
 ### Menu
-![Menu](media/Menu.jpg)
+<img src="media/Menu.jpg" alt="Menu" width="400"/>
 
 ### Task Creation
-![Task Creation](media/Task-create.jpg)
+<img src="media/Task-create.jpg" alt="Task Creation" width="400"/>
 
 ### Task List
-![Task List](media/Task-list.jpg)
+<img src="media/Task-list.jpg" alt="Task List" width="400"/>
 
 ### Charts & Analytics
-![Charts](media/Chart.jpg)
+<img src="media/Chart.jpg" alt="Charts" width="400"/>
 
 ## Tech Stack
 
